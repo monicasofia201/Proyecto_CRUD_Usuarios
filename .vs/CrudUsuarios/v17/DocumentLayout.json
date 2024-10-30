@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\crudusuarios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|solutionrelative:crudusuarios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\crudusuarios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|solutionrelative:crudusuarios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\crudusuarios\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|solutionrelative:crudusuarios\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|c:\\users\\admin\\desktop\\crudusuarios\\crudusuarios\\clases\\cusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|solutionrelative:crudusuarios\\clases\\cusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\crudusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113963D-D34A-4088-AAE5-BA7B9B33B705}|CrudUsuarios\\CrudUsuarios.csproj|solutionrelative:crudusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Clases\\CUsuarios.cs",
+              "RelativeDocumentMoniker": "CrudUsuarios\\Clases\\CUsuarios.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Clases\\CUsuarios.cs",
+              "RelativeToolTip": "CrudUsuarios\\Clases\\CUsuarios.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAANQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:15:07.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CConexion.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Clases\\CConexion.cs",
+              "RelativeDocumentMoniker": "CrudUsuarios\\Clases\\CConexion.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Clases\\CConexion.cs",
+              "RelativeToolTip": "CrudUsuarios\\Clases\\CConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:15:06.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Form1.cs",
+              "RelativeDocumentMoniker": "CrudUsuarios\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CrudUsuarios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:47:50.935Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Form1.cs",
+              "RelativeDocumentMoniker": "CrudUsuarios\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Form1.cs",
+              "RelativeToolTip": "CrudUsuarios\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:33:28.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Program.cs",
+              "RelativeDocumentMoniker": "CrudUsuarios\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CrudUsuarios\\CrudUsuarios\\Program.cs",
+              "RelativeToolTip": "CrudUsuarios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:47:46.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
